@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/estilo/style.css" rel="stylesheet">
+    <title>Linguagem hipermídia</title>
+</head>
+
+<body>
+    
+    <header>
+        <div class="container">
+
+            <div class="logo">
+                <a href=""><img src="/itens/imagens/magnolia-watercolor.png" alt=""></a>
+            </div>
+
+            <div class="menu">
+                <nav>
+                    <ul>
+                        <li><a href="">APOIE</a></li>
+                        <li><a href="">CONTATO</a></li>
+                        <li><a href="https://www.instagram.com/magnoliacoletivo/" target="_blank">SOBRE NÓS</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="scroll">
+        <img id="borda" src="/itens/imagens/familiar-wildlife.png" alt="">
+        <h1>INDEPENDÊNCIA <br>OU MORTE:</h1>
+        <p id="subtitulo">o jornalismo livre dos "donos da mídia" em Sergipe</p>
+        <p id="info">Reportagem de Cecília Fontes e Laiza Xavier <br> 20 de outubro, 2023</p>
+        <hr>
+
+        <div>
+            <p>Em Maio de 2023, a Associação Brasileira de Jornalismo Investigativo (Abraji) lançou o curso “Jornalismo Independente”, proposta descrita como “oito grandes nomes do jornalismo compartilhando sua visão de futuro para a profissão".</p>
+
+            <p>Antes tido como um pequeno recorte do fazer jornalístico – mal visto dentro da própria área, por ir contra um modelo mercadológico estabelecido como padrão –, o jornalismo independente hoje aparece como a visão de um futuro alinhado ao interesse público.</p>
+        </div>
+
+        <div>
+            <h2>O que incitou essa mudança?</h2>
+
+            <p><a href="https://passaralhos.voltdata.info/" target="_blank">A conta dos passaralhos</a>,  levantamento realizado pela Volt Data Lab, contabilizou mais de 7 mil demissões em empresas de mídia no Brasil entre 2012 e 2018, mapeando veículos tanto impressos como digitais. A metodologia da análise, no entanto, aponta também que “a pouca transparência das empresas jornalísticas, que raramente anunciaram seus planos de demissões e contratações”, assim como a informalidade do setor, em que boa parte dos jornalistas trabalha como <em>freelancer</em>, expõe ainda mais a precarização da área.</p>
+
+            <p>“A reforma trabalhista chegou no nosso campo da comunicação 20 anos antes,” diz o jornalista e pesquisador em Comunicação Social  Henrique Maynart. “Ela foi votada em 2016, mas na comunicação existe desde os anos 90 – contratação CNPJ, colocar estagiário para assinar matéria, não respeitar piso [salarial], não respeitar a jornada [de trabalho], uma cultura de assédio… o campo de trabalho da gente é adoecedor.”</p>
+
+            <p>Em meio a toda essa instabilidade, mesmo o jornalista contratado em redações vê sua profissão limitada às linhas editoriais de empresas tradicionais, que pautam os assuntos de acordo com interesses não sociais, mas financeiros – Lima Barreto, mais de cem anos atrás, já utilizava sua escrita jornalística para criticar o elitismo perpetuado pela grande imprensa.</p>
+
+            <p>Atualmente, a cobertura realizada pela mídia tradicional é alvo de pesquisas do Coletivo Intervozes na série <em>Vozes Silenciadas</em>, que conta com seis publicações desde 2011 – a mais recente, <a href="https://intervozes.org.br/publicacoes/vozes-silenciadas-a-cobertura-da-midia-sobre-as-leis-de-cotas-resumo-executivo/" target="_blank">A cobertura da mídia sobre a Lei de Cotas</a>, foi publicada em 2023. A série analisa a maneira como certos debates são enquadrados a partir de determinadas narrativas, ressaltando fontes ditas oficiais em detrimento dos relatos de pessoas ou comunidades que são, de fato, diretamente afetadas pelo tema em questão.</p>
+
+            <p>“Existem temas pautados pela mídia tradicional que a gente tá vendo que não são da forma como aquela função [social] do jornalismo deveria exercer,” explica Aline Braga, jornalista atuante em Sergipe e coordenadora da pesquisa citada. “Esses grandes veículos [da mídia tradicional] se misturam com interesses do capital e muitas vezes desvirtuam as pautas.”</p>
+
+            <p>Essa mídia tradicional refere-se aos grandes conglomerados empresariais que se mantêm no ramo há décadas, segundo levantamento do <a href="https://brazil.mom-gmr.org/br/proprietarios/" target="_blank">Media Ownership Monitor</a> (MOM). Tais grupos compõem os veículos de maior audiência no país e “possuem atividades em outros setores econômicos, como educação, financeiro, imobiliário, agropecuário, energia, transportes, infraestrutura e saúde. Há ainda proprietários que são políticos ou lideranças religiosas.” A hegemonia da mídia indica riscos à pluralidade de vozes e independência dos conteúdos publicados que, estando submetidos a sistemas sociopolíticos dominantes, colocam em crise sua própria credibilidade.</p>
+            <br>
+            <div class="zoom">
+            <img src="/itens/imagens/igrejas-cristãs-no-topo-da-audiência-Info1-1024x640.jpg" alt="">
+            </div>
+            <br>
+            <br>
+            <div class="zoom">
+                <img src="/itens/imagens/igrejas-cristãs-no-topo-da-audiência-Info2-1024x708.jpg" alt="">
+            <p id="legenda">MOM Brasil, out. 2017</p>
+        </div>
+<br>
+
+        <div>
+            <h2>O novo jornalismo em Sergipe</h2>
+
+            <p>As crises econômica e de credibilidade no mercado da mídia hegemônica são colocadas em evidência com o advento da internet. O jornalista perde seu papel de detentor da informação, paradigmas do jornalismo comercial já não são mais definitivos para a produção e circulação de publicações, e a experimentação permite que futuros profissionais visualizem possibilidades reais de retomar o protagonismo das próprias narrativas.</p>
+
+            <p>“Infelizmente, a gente sabe que precisa de dinheiro para sobreviver,” conta a estudante Tatiane Macena, repórter que estagia no veículo independente <a href="https://manguejornalismo.org/" target="_blank">Mangue Jornalismo</a>. “Mas eu não vou fazer uma coisa desonesta. Eu sou uma pessoa preta, periférica, eu não vou me formar pra fortalecer ainda mais o discurso opressor – vou me formar para os meus.”</p>
+
+            <p>Desde seu surgimento, ainda em 2023, a Mangue apresenta-se como um veículo de referência para o jornalismo investigativo sergipano, recusando-se a receber verba de publicidade de governos ou empresas, sejam públicas ou privadas. Essa liberdade financeira permite que sua atuação seja “pautada pelo interesse público em temáticas como direitos humanos, meio ambiente, igualdade racial, igualdade de gênero, diversidade, direito à cidade, cultura e liberdade de expressão.” O veículo disponibiliza sua política de financiamento no próprio site, onde também pretende publicar relatórios de prestação de contas.</p>
+
+            <p>“No nosso meio tem um monte de jornalista antiético,” expõe o jornalista e produtor cultural Marco Vieira, apresentador do podcast <a href="https://open.spotify.com/show/0kjECwOl32l0EumF0eLda3?si=8aa57613f7044553" target="_blank">Por Trás da Mídia</a>. “Tem meios de comunicação que não falam para o público que recebem cinco mil, dez mil reais pelo governo do estado todo mês, por exemplo.” Tal ligação afeta a produção jornalística ao estabelecer uma relação de dependência financeira, em que, mesmo quando há vontade de se fazer um jornalismo combativo, os financiadores não podem ser alvo de críticas.</p>
+
+            <p>O <em>Por Trás da Mídia</em> é um podcast independente que foca a produção de suas reportagens aprofundando-se em temas tratados superficialmente pela mídia tradicional – a exemplo de <a href="https://open.spotify.com/episode/3G0F7wKC3cmmfrfYUeoqSP?si=3af640bff4df483c" target="_blank">indústria bélica</a>, <a href="https://open.spotify.com/episode/1Jq5H4qsD0MXttdaHWSqZ9?si=2670cf248d464a43" target="_blank">sistema de ensino</a> e <a href="https://open.spotify.com/episode/2nPmerMewQNffP0kx5AJ2X?si=f5555c74b88d4e7b" target="_blank">segurança alimentar</a>. O veículo surgiu em 2020 e se mantém com investimento próprio e financiamento coletivo, de forma que não possui retorno financeiro. Ainda assim, Marco não tem planos de abrir mão do projeto que vê como uma prestação de serviço para a sociedade.</p>
+
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Mx3Isa90PhhmuLA8nE87V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+            <p>O cenário próspero das novas formas de exercer o jornalismo possibilita, também, que produções locais mantenham uma cobertura em áreas negligenciadas pela grande imprensa. Desde 2017, o <a href="https://www.atlas.jor.br/" target="_blank">Atlas da Notícia</a> faz o mapeamento de veículos jornalísticos no país e já conta com mais de 14 mil cadastrados em seu banco, divulgando relatórios anuais a partir dos dados coletados. O <em>Atlas</em> define como “desertos de notícia” municípios que não possuem cobertura de imprensa, e “quase desertos” aqueles que possuem apenas um ou dois veículos. De acordo com o relatório de 2022, a quantidade de desertos e quase-desertos vem reduzindo a cada ano, e a maioria das novas iniciativas é nativa digital.</p>
+            <div class="zoom">
+            <img src="/itens/imagens/ATLAS.png" alt="">
+            </div>
+            <p id="legenda">Atlas da Notícia, relatório 2022</p>
+        </div>
+
+        <div>
+            <p>Partindo dos dados do Atlas, a <em>Mangue</em> e o <em>Por Trás da Mídia</em>, nativos digitais, são dois dos quatro veículos sergipanos presentes, até o momento, no <a href="https://www.mapacajueira.com/" target="_blank">Mapa Cajueira</a>, um mapeamento do jornalismo independente no nordeste que foi desenvolvido como Trabalho de Conclusão de Curso pelo recém-formado jornalista Marco Ferro, que futuramente busca expandi-lo. O projeto surgiu com o objetivo de dar mais visibilidade para essas mídias, em sua maioria formadas por poucas pessoas e com poucos recursos.</p>
+
+            <p>“Uma coisa que eu percebo muito, principalmente depois que comecei a trabalhar com cultura, foi esse olhar. O local tem um olhar, e eu acho importante a questão da proximidade no jornalismo.” Marco explica que essa questão diz respeito à diferença na sensibilidade das abordagens: quando é feita por algum veículo próprio da região, ele conclui, “A notícia não é tratada como qualquer coisa, como corriqueira.”</p>
+
+            <p>Esse jornalismo regional e independente possibilita que aquelas "vozes silenciadas" retomem o controle da própria narrativa e manifestem, também, suas próprias verdades. A estudante Tatiane, moradora do Santa Maria, publicou na Mangue as denúncias que a população vinha fazendo meses antes, na reportagem autoral <a href="https://manguejornalismo.org/de-noite-a-fumaca-e-branca-de-dia-e-preta-comunidade-do-santa-maria-denuncia-prejuizos-a-saude-por-empresa-de-lavagem-hospitalar-com-videos/" target="_blank">"De noite a fumaça é branca. De dia é preta."</a></p>
+            <div class="zoom">
+            <img src="/itens/imagens/MANGUE.jpg" alt="">
+            </div>
+            <p id="legenda">Imagem de Paulo Marques, editor da Mangue Jornalismo</p>
+            </div>
+
+            <p>A reportagem, publicada em Maio deste ano, expõe a liberação contínua de uma fumaça tóxica pela empresa Yex alocada na região, que vem causando prejuízos ambientais, financeiros e, principalmente, de saúde aos moradores desde janeiro. A empresa tem 70 processos de abusos jurídicos cadastrados no portal Jusbrasil e a disputa já foi levada para a Câmara Municipal de Aracaju, mas até o momento de publicação desta reportagem, nenhum veículo tradicional da grande imprensa havia noticiado o conflito.</p>
+
+            <p>O que se vê na grande mídia, na verdade, são matérias que expõem o derramamento de petróleo no litoral brasileiro, mas não ouvem pescadores, que discutem as cotas em universidades mas não ouvem beneficiários, ou que abordam reivindicações das Mangabeiras através de pessoas que não fazem parte dessa realidade.</p>
+
+            <p>É a partir da percepção desse jornalismo amordaçado que Tatiane escolhe priorizar as falas de quem convive com as pautas retratadas. “Não quer dizer que vou excluir uma fonte especializada ou do governo, porque eles precisam também dar uma resposta,” ela explica, “só que a minha fonte prioritária vai ser a comunidade.”</p>
+
+            <p>Nesse cenário, parte do projeto <em>Vozes Silenciadas</em> se dedica a “amplificar” as vozes que são tradicionalmente invisibilizadas pela cobertura dos grandes veículos e, consequentemente, jogadas para escanteio no processo de construção de políticas públicas. Na cobertura midiática sobre a Lei de Cotas, por exemplo, Aline explica como essa diferença impacta uma representação efetiva em torno do tema.</p>
+
+            <p>“Eu ouço estudante que entrou com ação judicial contra as cotas porque perdeu a vaga, eu ouço poder judiciário, eu ouço presidência, eu ouço reitores de universidades [...], mas não ouço a população brasileira enorme que é a favor das cotas – então essa galera vai pro <em>Amplificadas</em>.” Aline reforça a importância dessas iniciativas porque o que se enfatiza na mídia é projetado na sociedade.</p>
+
+            <p>“Essas pessoas existem, são elas que compõem a sociedade e elas têm que ser ouvidas. Se você pega todos os Vozes Silenciadas, basicamente o que você vê no comportamento da mídia – essa mídia monopolizada, que tá imbricada com as bancadas mais conservadoras do Congresso Nacional, que tá imbricada com o coronelismo nordestino –, [...] esse monopólio jornalístico acaba enviesando o que poderia ser uma fonte de enriquecimento da população brasileira com ela mesma.”</p>
+
+            <p>Aline entende no diálogo uma 'fonte de enriquecimento' porque considera o jornalismo uma ferramenta de debate, e que por isso não deve hierarquizar as pessoas. Da mesma forma, Henrique pontua o impacto dessa monopolização nas construções narrativas – “A função social do jornalismo é estabelecer uma relação de fiscalização e diálogo com a sociedade em todos os seus aspectos. [...] E hoje não se fala o que deve ser falado, nem se ouve o que deve ser ouvido, porque existe uma estrutura de organização editorial e de financiamento que não privilegia isso.”</p>
+
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2pdF9EqVahQ?si=DuMFvfsiFg4Narmj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <p>Num estado em que as mídias de comunicação com mais audiência pertencem a poucas famílias e grupos religiosos, o jornalismo independente se apresenta como alternativa para estimular uma função da profissão alinhada ao interesse público – apesar de precisar de incentivos para se fortalecer ainda mais e estabelecer, de fato, um ecossistema em Sergipe. Comunicação não é barato, e as principais formas de manutenção de mídias independentes, atualmente, são financiamento coletivo, parcerias e editais públicos, de modo que manter-se ativas é um processo desafiador.</p>
+
+            <p>O mapa de Marco é uma boa ferramenta para dar visibilidade aos veículos locais ativos, e enquanto o site não é atualizado, ele forneceu para a reportagem o mapeamento que tem concluído até o momento, em outubro de 2023.</p>
+            <div class="zoom">
+
+            <img src="/itens/imagens/SEMF.jpg" alt="">
+
+            </div>
+
+            <p id="legenda">Mapeamento de veículos em Sergipe </p>
+            <div class="zoom">
+            <img src="/itens/imagens/BRMF1.jpg" alt="">
+            </div>
+            <p id="legenda">Recomendações de veículos no Brasil </p>
+            
+        </div>
+
+
+        <div class="adicionais">
+            <h2>Relacionados:</h2>
+                <ul>
+                    <li><a href="https://www.observatoriodaimprensa.com.br/comunicacao/o-jornalismo-conteudo-digital-direitos-deveres-e-etica/" target="_blank">O jornalismo, conteúdo digital, direitos, deveres e ética</a> <br><em>(Observatório da Imprensa, 2023)</em></li>
+                    <li><a href="https://ijnet.org/pt-br/story/quando-jornalismo-e-ativismo-caminham-juntos" target="_blank">Quando o jornalismo e o ativismo caminham juntos</a> <br><em>(Rede de Jornalistas internacionais, 2020)</em></li>
+                    <li><a href="https://diplomatique.org.br/regulacao-da-midia-a-invisibilidade-de-uma-agenda-essencial-a-democracia/" target="_blank">Regulação da mídia: a invisibilidade de uma agenda essencial à democracia</a> <br><em>(Le Monde Brasil, 2018)</em></li>
+                </ul>
+        </div>
+    </div>
+
+    <footer class="rodape">
+        <p>Coletivo Magnólia</p>
+    </footer>
+
+</body>
+</html>
